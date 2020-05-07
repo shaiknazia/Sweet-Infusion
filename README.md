@@ -1,6 +1,9 @@
 # About the Project
 
-A food ordering experience for a single restaurant. Hungry clients of this fictitious restaurant can visit its website, select one or more dishes and place an order for pick-up. They will receive an SMS notification when their order is ready.
+A food ordering experience for a single restaurant created by a team of 'three' with primary focus on not just coding skills but also team work skills, git collaboration skills as well as pair programming skills.
+
+
+Hungry clients of this fictitious restaurant can visit its website, select one or more dishes and place an order for pick-up. They will receive an SMS notification when their order is ready.
 
 When an order is placed the restaurant receives the order via SMS. The restaurant can then specify how long it will take to fulfill it. Once they provide this information, the website updates for the client and also notifies them via SMS.
 
