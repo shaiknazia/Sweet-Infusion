@@ -36,8 +36,7 @@ The restaraunt sends an order complete SMS to the client when they click the 'Co
 
 !["Restaurant's Page for Orders"](https://github.com/riztaha/midterm_project/blob/master/docs/Restaraunt%20Order%20Summary.png)
 
-
-=========
+---------------------------------
 
 ## Project Setup
 
